@@ -7,7 +7,7 @@ cask "clipstack" do
   desc "Menu bar clipboard history with ordered multi-copy"
   homepage "https://github.com/neul-lov/ClipStack"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
   depends_on arch: :arm64
 
   app "ClipStack.app"
