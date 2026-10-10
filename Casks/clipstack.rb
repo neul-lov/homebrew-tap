@@ -1,6 +1,6 @@
 cask "clipstack" do
-  version "1.1.1"
-  sha256 "b55649380bb5984b931327badf264d5583b0e953078a7b28791b365888ce2d84"
+  version "1.2.0"
+  sha256 "b1cfe1b896f53994773517d67931263f7e3e17464c13b442097aae9bc757d173"
 
   url "https://github.com/neul-lov/ClipStack/releases/download/v#{version}/ClipStack.dmg"
   name "ClipStack"
